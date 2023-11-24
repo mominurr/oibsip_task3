@@ -47,7 +47,7 @@ or
 To use this project, follow these steps:
 1. Ensure you have Python installed on your machine.
 2. **For Training:**
-   - Clone the repository: `git clone https://github.com/mominurr/oibsip_task3`
+   - Clone the repository: `git clone https://github.com/mominurr/oibsip_task3.git`
    - Install the required libraries: `pip install -r requirements.txt`
    - Run the script: `python car-price-predictor.py`
 3. **For Prediction:**
