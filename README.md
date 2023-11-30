@@ -35,10 +35,11 @@ Ensure you have the following libraries installed to run the script:
 - scikit-learn
 - numpy
 - joblib
+- flask
 
 You can install these dependencies using pip:
 
-    pip install pandas matplotlib seaborn scikit-learn numpy joblib
+    pip install pandas matplotlib seaborn scikit-learn numpy joblib flask
 or
 
     pip install -r requirements.txt
